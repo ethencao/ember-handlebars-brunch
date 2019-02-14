@@ -36,10 +36,10 @@
       "email": "matt@strangelooper.com"
     }
   ],
-  "homepage": "https://github.com/bartsqueezy/ember-handlebars-brunch",
+  "homepage": "https://github.com/ethencao/ember-handlebars-brunch",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bartsqueezy/ember-handlebars-brunch.git"
+    "url": "git://github.com/ethencao/ember-handlebars-brunch.git"
   },
   "main": "./lib/index",
   "scripts": {
